@@ -10,3 +10,5 @@ Materiales:
 3.- Arduino 
 
 4.- LEDs
+
+Nota: Instalar los drivers necesarios para el kinect
